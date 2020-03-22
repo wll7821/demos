@@ -1,0 +1,27 @@
+{
+  "name": "demos",
+  "version": "1.0.0",
+  "description": "我的demo",
+  "main": "index.js",
+  "scripts": {
+    "conf": "f2e conf",
+    "start": "f2e start",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wll7821/demos.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wll7821/demos/issues"
+  },
+  "homepage": "https://github.com/wll7821/demos#readme",
+  "dependencies": {
+    "@types/node": "^13.9.2",
+    "f2e-server": "^2.12.5",
+    "xml2js": "^0.4.23"
+  }
+}

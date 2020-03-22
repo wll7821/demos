@@ -1,0 +1,615 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nodes>
+<node nodeID="-3" parentID="-5" open="false" articleNum="5453">
+<nodeName><![CDATA[按公文种类分类]]></nodeName>
+<nodeUrl><![CDATA[http://new.sousuo.gov.cn/list.htm?sort=publishDate&advance=true&t=paper&n=15]]></nodeUrl>
+</node>
+<node nodeID="01" parentID="-3" open="false" articleNum="356">
+<nodeName><![CDATA[国令]]></nodeName>
+<nodeUrl><![CDATA[http://new.sousuo.gov.cn/list.htm?sort=publishDate&advance=true&t=paper&n=15&pcodeJiguan=%E5%9B%BD%E4%BB%A4&location=%E5%9B%BD%E4%BB%A4]]></nodeUrl>
+</node>
+<node nodeID="02" parentID="-3" open="false" articleNum="1154">
+<nodeName><![CDATA[国发]]></nodeName>
+<nodeUrl><![CDATA[http://new.sousuo.gov.cn/list.htm?sort=publishDate&advance=true&t=paper&n=15&pcodeJiguan=%E5%9B%BD%E5%8F%91&location=%E5%9B%BD%E5%8F%91]]></nodeUrl>
+</node>
+<node nodeID="03" parentID="-3" open="false" articleNum="1288">
+<nodeName><![CDATA[国函]]></nodeName>
+<nodeUrl><![CDATA[http://new.sousuo.gov.cn/list.htm?sort=publishDate&advance=true&t=paper&n=15&pcodeJiguan=%E5%9B%BD%E5%87%BD&location=%E5%9B%BD%E5%87%BD]]></nodeUrl>
+</node>
+<node nodeID="04" parentID="-3" open="false" articleNum="19">
+<nodeName><![CDATA[国发明电]]></nodeName>
+<nodeUrl><![CDATA[http://new.sousuo.gov.cn/list.htm?sort=publishDate&advance=true&t=paper&n=15&pcodeJiguan=%E5%9B%BD%E5%8F%91%E6%98%8E%E7%94%B5&location=%E5%9B%BD%E5%8F%91%E6%98%8E%E7%94%B5]]></nodeUrl>
+</node>
+<node nodeID="05" parentID="-3" open="false" articleNum="1767">
+<nodeName><![CDATA[国办发]]></nodeName>
+<nodeUrl><![CDATA[http://new.sousuo.gov.cn/list.htm?sort=publishDate&advance=true&t=paper&n=15&pcodeJiguan=%E5%9B%BD%E5%8A%9E%E5%8F%91&location=%E5%9B%BD%E5%8A%9E%E5%8F%91]]></nodeUrl>
+</node>
+<node nodeID="06" parentID="-3" open="false" articleNum="754">
+<nodeName><![CDATA[国办函]]></nodeName>
+<nodeUrl><![CDATA[http://new.sousuo.gov.cn/list.htm?sort=publishDate&advance=true&t=paper&n=15&pcodeJiguan=%E5%9B%BD%E5%8A%9E%E5%87%BD&location=%E5%9B%BD%E5%8A%9E%E5%87%BD]]></nodeUrl>
+</node>
+<node nodeID="07" parentID="-3" open="false" articleNum="64">
+<nodeName><![CDATA[国办发明电]]></nodeName>
+<nodeUrl><![CDATA[http://new.sousuo.gov.cn/list.htm?sort=publishDate&advance=true&t=paper&n=15&pcodeJiguan=%E5%9B%BD%E5%8A%9E%E5%8F%91%E6%98%8E%E7%94%B5&location=%E5%9B%BD%E5%8A%9E%E5%8F%91%E6%98%8E%E7%94%B5]]></nodeUrl>
+</node>
+<node nodeID="09" parentID="-3" open="false" articleNum="51">
+<nodeName><![CDATA[其他]]></nodeName>
+<nodeUrl><![CDATA[http://new.sousuo.gov.cn/list.htm?sort=publishDate&advance=true&t=paper&n=15&pcodeJiguan=%E5%85%B6%E4%BB%96&location=%E5%85%B6%E4%BB%96]]></nodeUrl>
+</node>
+<node nodeID="160" parentID="-6" open="false" articleNum="5453">
+<nodeName><![CDATA[按主题分类]]></nodeName>
+<nodeUrl><![CDATA[http://new.sousuo.gov.cn/list.htm?sort=publishDate&advance=true&t=paper&n=15]]></nodeUrl>
+</node>
+<node nodeID="300" parentID="160" open="false" articleNum="334">
+<nodeName><![CDATA[国务院组织机构]]></nodeName>
+<nodeUrl><![CDATA[http://new.sousuo.gov.cn/list.htm?sort=publishDate&advance=true&t=paper&n=15&childtype=gc300&location=%E5%9B%BD%E5%8A%A1%E9%99%A2%E7%BB%84%E7%BB%87%E6%9C%BA%E6%9E%84]]></nodeUrl>
+</node>
+<node nodeID="188" parentID="160" open="false" articleNum="375">
+<nodeName><![CDATA[综合政务]]></nodeName>
+<nodeUrl><![CDATA[http://new.sousuo.gov.cn/list.htm?sort=publishDate&advance=true&t=paper&n=15&childtype=gc188&location=%E7%BB%BC%E5%90%88%E6%94%BF%E5%8A%A1]]></nodeUrl>
+</node>
+<node nodeID="187" parentID="160" open="false" articleNum="330">
+<nodeName><![CDATA[国民经济管理、国有资产监管]]></nodeName>
+<nodeUrl><![CDATA[http://new.sousuo.gov.cn/list.htm?sort=publishDate&advance=true&t=paper&n=15&childtype=gc187&location=%E5%9B%BD%E6%B0%91%E7%BB%8F%E6%B5%8E%E7%AE%A1%E7%90%86%E3%80%81%E5%9B%BD%E6%9C%89%E8%B5%84%E4%BA%A7%E7%9B%91%E7%AE%A1]]></nodeUrl>
+</node>
+<node nodeID="186" parentID="160" open="false" articleNum="356">
+<nodeName><![CDATA[财政、金融、审计]]></nodeName>
+<nodeUrl><![CDATA[http://new.sousuo.gov.cn/list.htm?sort=publishDate&advance=true&t=paper&n=15&childtype=gc186&location=%E8%B4%A2%E6%94%BF%E3%80%81%E9%87%91%E8%9E%8D%E3%80%81%E5%AE%A1%E8%AE%A1]]></nodeUrl>
+</node>
+<node nodeID="185" parentID="160" open="false" articleNum="353">
+<nodeName><![CDATA[国土资源、能源]]></nodeName>
+<nodeUrl><![CDATA[http://new.sousuo.gov.cn/list.htm?sort=publishDate&advance=true&t=paper&n=15&childtype=gc185&location=%E5%9B%BD%E5%9C%9F%E8%B5%84%E6%BA%90%E3%80%81%E8%83%BD%E6%BA%90]]></nodeUrl>
+</node>
+<node nodeID="184" parentID="160" open="false" articleNum="395">
+<nodeName><![CDATA[农业、林业、水利]]></nodeName>
+<nodeUrl><![CDATA[http://new.sousuo.gov.cn/list.htm?sort=publishDate&advance=true&t=paper&n=15&childtype=gc184&location=%E5%86%9C%E4%B8%9A%E3%80%81%E6%9E%97%E4%B8%9A%E3%80%81%E6%B0%B4%E5%88%A9]]></nodeUrl>
+</node>
+<node nodeID="183" parentID="160" open="false" articleNum="402">
+<nodeName><![CDATA[工业、交通]]></nodeName>
+<nodeUrl><![CDATA[http://new.sousuo.gov.cn/list.htm?sort=publishDate&advance=true&t=paper&n=15&childtype=gc183&location=%E5%B7%A5%E4%B8%9A%E3%80%81%E4%BA%A4%E9%80%9A]]></nodeUrl>
+</node>
+<node nodeID="182" parentID="160" open="false" articleNum="647">
+<nodeName><![CDATA[商贸、海关、旅游]]></nodeName>
+<nodeUrl><![CDATA[http://new.sousuo.gov.cn/list.htm?sort=publishDate&advance=true&t=paper&n=15&childtype=gc182&location=%E5%95%86%E8%B4%B8%E3%80%81%E6%B5%B7%E5%85%B3%E3%80%81%E6%97%85%E6%B8%B8]]></nodeUrl>
+</node>
+<node nodeID="181" parentID="160" open="false" articleNum="213">
+<nodeName><![CDATA[市场监管、安全生产监管]]></nodeName>
+<nodeUrl><![CDATA[http://new.sousuo.gov.cn/list.htm?sort=publishDate&advance=true&t=paper&n=15&childtype=gc181&location=%E5%B8%82%E5%9C%BA%E7%9B%91%E7%AE%A1%E3%80%81%E5%AE%89%E5%85%A8%E7%94%9F%E4%BA%A7%E7%9B%91%E7%AE%A1]]></nodeUrl>
+</node>
+<node nodeID="180" parentID="160" open="false" articleNum="506">
+<nodeName><![CDATA[城乡建设、环境保护]]></nodeName>
+<nodeUrl><![CDATA[http://new.sousuo.gov.cn/list.htm?sort=publishDate&advance=true&t=paper&n=15&childtype=gc180&location=%E5%9F%8E%E4%B9%A1%E5%BB%BA%E8%AE%BE%E3%80%81%E7%8E%AF%E5%A2%83%E4%BF%9D%E6%8A%A4]]></nodeUrl>
+</node>
+<node nodeID="179" parentID="160" open="false" articleNum="333">
+<nodeName><![CDATA[科技、教育]]></nodeName>
+<nodeUrl><![CDATA[http://new.sousuo.gov.cn/list.htm?sort=publishDate&advance=true&t=paper&n=15&childtype=gc179&location=%E7%A7%91%E6%8A%80%E3%80%81%E6%95%99%E8%82%B2]]></nodeUrl>
+</node>
+<node nodeID="178" parentID="160" open="false" articleNum="130">
+<nodeName><![CDATA[文化、广电、新闻出版]]></nodeName>
+<nodeUrl><![CDATA[http://new.sousuo.gov.cn/list.htm?sort=publishDate&advance=true&t=paper&n=15&childtype=gc178&location=%E6%96%87%E5%8C%96%E3%80%81%E5%B9%BF%E7%94%B5%E3%80%81%E6%96%B0%E9%97%BB%E5%87%BA%E7%89%88]]></nodeUrl>
+</node>
+<node nodeID="177" parentID="160" open="false" articleNum="214">
+<nodeName><![CDATA[卫生、体育]]></nodeName>
+<nodeUrl><![CDATA[http://new.sousuo.gov.cn/list.htm?sort=publishDate&advance=true&t=paper&n=15&childtype=gc177&location=%E5%8D%AB%E7%94%9F%E3%80%81%E4%BD%93%E8%82%B2]]></nodeUrl>
+</node>
+<node nodeID="176" parentID="160" open="false" articleNum="23">
+<nodeName><![CDATA[人口与计划生育、妇女儿童工作]]></nodeName>
+<nodeUrl><![CDATA[http://new.sousuo.gov.cn/list.htm?sort=publishDate&advance=true&t=paper&n=15&childtype=gc176&location=%E4%BA%BA%E5%8F%A3%E4%B8%8E%E8%AE%A1%E5%88%92%E7%94%9F%E8%82%B2%E3%80%81%E5%A6%87%E5%A5%B3%E5%84%BF%E7%AB%A5%E5%B7%A5%E4%BD%9C]]></nodeUrl>
+</node>
+<node nodeID="175" parentID="160" open="false" articleNum="236">
+<nodeName><![CDATA[劳动、人事、监察]]></nodeName>
+<nodeUrl><![CDATA[http://new.sousuo.gov.cn/list.htm?sort=publishDate&advance=true&t=paper&n=15&childtype=gc175&location=%E5%8A%B3%E5%8A%A8%E3%80%81%E4%BA%BA%E4%BA%8B%E3%80%81%E7%9B%91%E5%AF%9F]]></nodeUrl>
+</node>
+<node nodeID="174" parentID="160" open="false" articleNum="193">
+<nodeName><![CDATA[公安、安全、司法]]></nodeName>
+<nodeUrl><![CDATA[http://new.sousuo.gov.cn/list.htm?sort=publishDate&advance=true&t=paper&n=15&childtype=gc174&location=%E5%85%AC%E5%AE%89%E3%80%81%E5%AE%89%E5%85%A8%E3%80%81%E5%8F%B8%E6%B3%95]]></nodeUrl>
+</node>
+<node nodeID="173" parentID="160" open="false" articleNum="230">
+<nodeName><![CDATA[民政、扶贫、救灾]]></nodeName>
+<nodeUrl><![CDATA[http://new.sousuo.gov.cn/list.htm?sort=publishDate&advance=true&t=paper&n=15&childtype=gc173&location=%E6%B0%91%E6%94%BF%E3%80%81%E6%89%B6%E8%B4%AB%E3%80%81%E6%95%91%E7%81%BE]]></nodeUrl>
+</node>
+<node nodeID="172" parentID="160" open="false" articleNum="18">
+<nodeName><![CDATA[民族、宗教]]></nodeName>
+<nodeUrl><![CDATA[http://new.sousuo.gov.cn/list.htm?sort=publishDate&advance=true&t=paper&n=15&childtype=gc172&location=%E6%B0%91%E6%97%8F%E3%80%81%E5%AE%97%E6%95%99]]></nodeUrl>
+</node>
+<node nodeID="171" parentID="160" open="false" articleNum="54">
+<nodeName><![CDATA[对外事务]]></nodeName>
+<nodeUrl><![CDATA[http://new.sousuo.gov.cn/list.htm?sort=publishDate&advance=true&t=paper&n=15&childtype=gc171&location=%E5%AF%B9%E5%A4%96%E4%BA%8B%E5%8A%A1]]></nodeUrl>
+</node>
+<node nodeID="170" parentID="160" open="false" articleNum="36">
+<nodeName><![CDATA[港澳台侨工作]]></nodeName>
+<nodeUrl><![CDATA[http://new.sousuo.gov.cn/list.htm?sort=publishDate&advance=true&t=paper&n=15&childtype=gc170&location=%E6%B8%AF%E6%BE%B3%E5%8F%B0%E4%BE%A8%E5%B7%A5%E4%BD%9C]]></nodeUrl>
+</node>
+<node nodeID="169" parentID="160" open="false" articleNum="51">
+<nodeName><![CDATA[国防]]></nodeName>
+<nodeUrl><![CDATA[http://new.sousuo.gov.cn/list.htm?sort=publishDate&advance=true&t=paper&n=15&childtype=gc169&location=%E5%9B%BD%E9%98%B2]]></nodeUrl>
+</node>
+<node nodeID="168" parentID="160" open="false" articleNum="24">
+<nodeName><![CDATA[其他]]></nodeName>
+<nodeUrl><![CDATA[http://new.sousuo.gov.cn/list.htm?sort=publishDate&advance=true&t=paper&n=15&childtype=gc160&location=%E5%85%B6%E4%BB%96]]></nodeUrl>
+</node>
+<node nodeID="299" parentID="169" open="false" articleNum="47">
+<nodeName><![CDATA[国防建设]]></nodeName>
+<nodeUrl><![CDATA[http://new.sousuo.gov.cn/list.htm?sort=publishDate&advance=true&t=paper&n=15&subchildtype=gc299&location=%E5%9B%BD%E9%98%B2%3E%E5%9B%BD%E9%98%B2%E5%BB%BA%E8%AE%BE]]></nodeUrl>
+</node>
+<node nodeID="298" parentID="169" open="false" articleNum="4">
+<nodeName><![CDATA[国防动员]]></nodeName>
+<nodeUrl><![CDATA[http://new.sousuo.gov.cn/list.htm?sort=publishDate&advance=true&t=paper&n=15&subchildtype=gc298&location=%E5%9B%BD%E9%98%B2%3E%E5%9B%BD%E9%98%B2%E5%8A%A8%E5%91%98]]></nodeUrl>
+</node>
+<node nodeID="297" parentID="170" open="false" articleNum="32">
+<nodeName><![CDATA[港澳工作]]></nodeName>
+<nodeUrl><![CDATA[http://new.sousuo.gov.cn/list.htm?sort=publishDate&advance=true&t=paper&n=15&subchildtype=gc297&location=%E6%B8%AF%E6%BE%B3%E5%8F%B0%E4%BE%A8%E5%B7%A5%E4%BD%9C%3E%E6%B8%AF%E6%BE%B3%E5%B7%A5%E4%BD%9C]]></nodeUrl>
+</node>
+<node nodeID="296" parentID="170" open="false" articleNum="2">
+<nodeName><![CDATA[对台工作]]></nodeName>
+<nodeUrl><![CDATA[http://new.sousuo.gov.cn/list.htm?sort=publishDate&advance=true&t=paper&n=15&subchildtype=gc296&location=%E6%B8%AF%E6%BE%B3%E5%8F%B0%E4%BE%A8%E5%B7%A5%E4%BD%9C%3E%E5%AF%B9%E5%8F%B0%E5%B7%A5%E4%BD%9C]]></nodeUrl>
+</node>
+<node nodeID="295" parentID="170" open="false" articleNum="2">
+<nodeName><![CDATA[侨务工作]]></nodeName>
+<nodeUrl><![CDATA[http://new.sousuo.gov.cn/list.htm?sort=publishDate&advance=true&t=paper&n=15&subchildtype=gc295&location=%E6%B8%AF%E6%BE%B3%E5%8F%B0%E4%BE%A8%E5%B7%A5%E4%BD%9C%3E%E4%BE%A8%E5%8A%A1%E5%B7%A5%E4%BD%9C]]></nodeUrl>
+</node>
+<node nodeID="294" parentID="171" open="false" articleNum="36">
+<nodeName><![CDATA[外交、外事]]></nodeName>
+<nodeUrl><![CDATA[http://new.sousuo.gov.cn/list.htm?sort=publishDate&advance=true&t=paper&n=15&subchildtype=gc294&location=%E5%AF%B9%E5%A4%96%E4%BA%8B%E5%8A%A1%3E%E5%A4%96%E4%BA%A4%E3%80%81%E5%A4%96%E4%BA%8B]]></nodeUrl>
+</node>
+<node nodeID="293" parentID="171" open="false" articleNum="13">
+<nodeName><![CDATA[国际条约、国际组织]]></nodeName>
+<nodeUrl><![CDATA[http://new.sousuo.gov.cn/list.htm?sort=publishDate&advance=true&t=paper&n=15&subchildtype=gc293&location=%E5%AF%B9%E5%A4%96%E4%BA%8B%E5%8A%A1%3E%E5%9B%BD%E9%99%85%E6%9D%A1%E7%BA%A6%E3%80%81%E5%9B%BD%E9%99%85%E7%BB%84%E7%BB%87]]></nodeUrl>
+</node>
+<node nodeID="292" parentID="171" open="false" articleNum="5">
+<nodeName><![CDATA[其他]]></nodeName>
+<nodeUrl><![CDATA[http://new.sousuo.gov.cn/list.htm?sort=publishDate&advance=true&t=paper&n=15&subchildtype=gc292&location=%E5%AF%B9%E5%A4%96%E4%BA%8B%E5%8A%A1%3E%E5%85%B6%E4%BB%96]]></nodeUrl>
+</node>
+<node nodeID="291" parentID="172" open="false" articleNum="12">
+<nodeName><![CDATA[民族事务]]></nodeName>
+<nodeUrl><![CDATA[http://new.sousuo.gov.cn/list.htm?sort=publishDate&advance=true&t=paper&n=15&subchildtype=gc291&location=%E6%B0%91%E6%97%8F%E3%80%81%E5%AE%97%E6%95%99%3E%E6%B0%91%E6%97%8F%E4%BA%8B%E5%8A%A1]]></nodeUrl>
+</node>
+<node nodeID="290" parentID="172" open="false" articleNum="6">
+<nodeName><![CDATA[宗教事务]]></nodeName>
+<nodeUrl><![CDATA[http://new.sousuo.gov.cn/list.htm?sort=publishDate&advance=true&t=paper&n=15&subchildtype=gc290&location=%E6%B0%91%E6%97%8F%E3%80%81%E5%AE%97%E6%95%99%3E%E5%AE%97%E6%95%99%E4%BA%8B%E5%8A%A1]]></nodeUrl>
+</node>
+<node nodeID="289" parentID="173" open="false" articleNum="23">
+<nodeName><![CDATA[减灾救灾]]></nodeName>
+<nodeUrl><![CDATA[http://new.sousuo.gov.cn/list.htm?sort=publishDate&advance=true&t=paper&n=15&subchildtype=gc289&location=%E6%B0%91%E6%94%BF%E3%80%81%E6%89%B6%E8%B4%AB%E3%80%81%E6%95%91%E7%81%BE%3E%E5%87%8F%E7%81%BE%E6%95%91%E7%81%BE]]></nodeUrl>
+</node>
+<node nodeID="288" parentID="173" open="false" articleNum="34">
+<nodeName><![CDATA[优抚安置]]></nodeName>
+<nodeUrl><![CDATA[http://new.sousuo.gov.cn/list.htm?sort=publishDate&advance=true&t=paper&n=15&subchildtype=gc288&location=%E6%B0%91%E6%94%BF%E3%80%81%E6%89%B6%E8%B4%AB%E3%80%81%E6%95%91%E7%81%BE%3E%E4%BC%98%E6%8A%9A%E5%AE%89%E7%BD%AE]]></nodeUrl>
+</node>
+<node nodeID="287" parentID="173" open="false" articleNum="12">
+<nodeName><![CDATA[社会福利]]></nodeName>
+<nodeUrl><![CDATA[http://new.sousuo.gov.cn/list.htm?sort=publishDate&advance=true&t=paper&n=15&subchildtype=gc287&location=%E6%B0%91%E6%94%BF%E3%80%81%E6%89%B6%E8%B4%AB%E3%80%81%E6%95%91%E7%81%BE%3E%E7%A4%BE%E4%BC%9A%E7%A6%8F%E5%88%A9]]></nodeUrl>
+</node>
+<node nodeID="286" parentID="173" open="false" articleNum="99">
+<nodeName><![CDATA[行政区划与地名]]></nodeName>
+<nodeUrl><![CDATA[http://new.sousuo.gov.cn/list.htm?sort=publishDate&advance=true&t=paper&n=15&subchildtype=gc286&location=%E6%B0%91%E6%94%BF%E3%80%81%E6%89%B6%E8%B4%AB%E3%80%81%E6%95%91%E7%81%BE%3E%E8%A1%8C%E6%94%BF%E5%8C%BA%E5%88%92%E4%B8%8E%E5%9C%B0%E5%90%8D]]></nodeUrl>
+</node>
+<node nodeID="285" parentID="173" open="false" articleNum="10">
+<nodeName><![CDATA[社团管理]]></nodeName>
+<nodeUrl><![CDATA[http://new.sousuo.gov.cn/list.htm?sort=publishDate&advance=true&t=paper&n=15&subchildtype=gc285&location=%E6%B0%91%E6%94%BF%E3%80%81%E6%89%B6%E8%B4%AB%E3%80%81%E6%95%91%E7%81%BE%3E%E7%A4%BE%E5%9B%A2%E7%AE%A1%E7%90%86]]></nodeUrl>
+</node>
+<node nodeID="284" parentID="173" open="false" articleNum="18">
+<nodeName><![CDATA[扶贫]]></nodeName>
+<nodeUrl><![CDATA[http://new.sousuo.gov.cn/list.htm?sort=publishDate&advance=true&t=paper&n=15&subchildtype=gc284&location=%E6%B0%91%E6%94%BF%E3%80%81%E6%89%B6%E8%B4%AB%E3%80%81%E6%95%91%E7%81%BE%3E%E6%89%B6%E8%B4%AB]]></nodeUrl>
+</node>
+<node nodeID="283" parentID="173" open="false" articleNum="34">
+<nodeName><![CDATA[其他]]></nodeName>
+<nodeUrl><![CDATA[http://new.sousuo.gov.cn/list.htm?sort=publishDate&advance=true&t=paper&n=15&subchildtype=gc283&location=%E6%B0%91%E6%94%BF%E3%80%81%E6%89%B6%E8%B4%AB%E3%80%81%E6%95%91%E7%81%BE%3E%E5%85%B6%E4%BB%96]]></nodeUrl>
+</node>
+<node nodeID="282" parentID="174" open="false" articleNum="128">
+<nodeName><![CDATA[公安]]></nodeName>
+<nodeUrl><![CDATA[http://new.sousuo.gov.cn/list.htm?sort=publishDate&advance=true&t=paper&n=15&subchildtype=gc282&location=%E5%85%AC%E5%AE%89%E3%80%81%E5%AE%89%E5%85%A8%E3%80%81%E5%8F%B8%E6%B3%95%3E%E5%85%AC%E5%AE%89]]></nodeUrl>
+</node>
+<node nodeID="281" parentID="174" open="false" articleNum="3">
+<nodeName><![CDATA[国家安全]]></nodeName>
+<nodeUrl><![CDATA[http://new.sousuo.gov.cn/list.htm?sort=publishDate&advance=true&t=paper&n=15&subchildtype=gc281&location=%E5%85%AC%E5%AE%89%E3%80%81%E5%AE%89%E5%85%A8%E3%80%81%E5%8F%B8%E6%B3%95%3E%E5%9B%BD%E5%AE%B6%E5%AE%89%E5%85%A8]]></nodeUrl>
+</node>
+<node nodeID="280" parentID="174" open="false" articleNum="48">
+<nodeName><![CDATA[司法]]></nodeName>
+<nodeUrl><![CDATA[http://new.sousuo.gov.cn/list.htm?sort=publishDate&advance=true&t=paper&n=15&subchildtype=gc280&location=%E5%85%AC%E5%AE%89%E3%80%81%E5%AE%89%E5%85%A8%E3%80%81%E5%8F%B8%E6%B3%95%3E%E5%8F%B8%E6%B3%95]]></nodeUrl>
+</node>
+<node nodeID="279" parentID="174" open="false" articleNum="14">
+<nodeName><![CDATA[其他]]></nodeName>
+<nodeUrl><![CDATA[http://new.sousuo.gov.cn/list.htm?sort=publishDate&advance=true&t=paper&n=15&subchildtype=gc279&location=%E5%85%AC%E5%AE%89%E3%80%81%E5%AE%89%E5%85%A8%E3%80%81%E5%8F%B8%E6%B3%95%3E%E5%85%B6%E4%BB%96]]></nodeUrl>
+</node>
+<node nodeID="278" parentID="175" open="false" articleNum="44">
+<nodeName><![CDATA[劳动就业]]></nodeName>
+<nodeUrl><![CDATA[http://new.sousuo.gov.cn/list.htm?sort=publishDate&advance=true&t=paper&n=15&subchildtype=gc278&location=%E5%8A%B3%E5%8A%A8%E3%80%81%E4%BA%BA%E4%BA%8B%E3%80%81%E7%9B%91%E5%AF%9F%3E%E5%8A%B3%E5%8A%A8%E5%B0%B1%E4%B8%9A]]></nodeUrl>
+</node>
+<node nodeID="277" parentID="175" open="false" articleNum="51">
+<nodeName><![CDATA[社会保障]]></nodeName>
+<nodeUrl><![CDATA[http://new.sousuo.gov.cn/list.htm?sort=publishDate&advance=true&t=paper&n=15&subchildtype=gc277&location=%E5%8A%B3%E5%8A%A8%E3%80%81%E4%BA%BA%E4%BA%8B%E3%80%81%E7%9B%91%E5%AF%9F%3E%E7%A4%BE%E4%BC%9A%E4%BF%9D%E9%9A%9C]]></nodeUrl>
+</node>
+<node nodeID="276" parentID="175" open="false" articleNum="60">
+<nodeName><![CDATA[人事工作]]></nodeName>
+<nodeUrl><![CDATA[http://new.sousuo.gov.cn/list.htm?sort=publishDate&advance=true&t=paper&n=15&subchildtype=gc276&location=%E5%8A%B3%E5%8A%A8%E3%80%81%E4%BA%BA%E4%BA%8B%E3%80%81%E7%9B%91%E5%AF%9F%3E%E4%BA%BA%E4%BA%8B%E5%B7%A5%E4%BD%9C]]></nodeUrl>
+</node>
+<node nodeID="275" parentID="175" open="false" articleNum="10">
+<nodeName><![CDATA[军转安置]]></nodeName>
+<nodeUrl><![CDATA[http://new.sousuo.gov.cn/list.htm?sort=publishDate&advance=true&t=paper&n=15&subchildtype=gc275&location=%E5%8A%B3%E5%8A%A8%E3%80%81%E4%BA%BA%E4%BA%8B%E3%80%81%E7%9B%91%E5%AF%9F%3E%E5%86%9B%E8%BD%AC%E5%AE%89%E7%BD%AE]]></nodeUrl>
+</node>
+<node nodeID="274" parentID="175" open="false" articleNum="12">
+<nodeName><![CDATA[监察]]></nodeName>
+<nodeUrl><![CDATA[http://new.sousuo.gov.cn/list.htm?sort=publishDate&advance=true&t=paper&n=15&subchildtype=gc274&location=%E5%8A%B3%E5%8A%A8%E3%80%81%E4%BA%BA%E4%BA%8B%E3%80%81%E7%9B%91%E5%AF%9F%3E%E7%9B%91%E5%AF%9F]]></nodeUrl>
+</node>
+<node nodeID="273" parentID="175" open="false" articleNum="19">
+<nodeName><![CDATA[纠正行业不正之风]]></nodeName>
+<nodeUrl><![CDATA[http://new.sousuo.gov.cn/list.htm?sort=publishDate&advance=true&t=paper&n=15&subchildtype=gc273&location=%E5%8A%B3%E5%8A%A8%E3%80%81%E4%BA%BA%E4%BA%8B%E3%80%81%E7%9B%91%E5%AF%9F%3E%E7%BA%A0%E6%AD%A3%E8%A1%8C%E4%B8%9A%E4%B8%8D%E6%AD%A3%E4%B9%8B%E9%A3%8E]]></nodeUrl>
+</node>
+<node nodeID="272" parentID="175" open="false" articleNum="40">
+<nodeName><![CDATA[其他]]></nodeName>
+<nodeUrl><![CDATA[http://new.sousuo.gov.cn/list.htm?sort=publishDate&advance=true&t=paper&n=15&subchildtype=gc272&location=%E5%8A%B3%E5%8A%A8%E3%80%81%E4%BA%BA%E4%BA%8B%E3%80%81%E7%9B%91%E5%AF%9F%3E%E5%85%B6%E4%BB%96]]></nodeUrl>
+</node>
+<node nodeID="271" parentID="176" open="false" articleNum="11">
+<nodeName><![CDATA[人口与计划生育]]></nodeName>
+<nodeUrl><![CDATA[http://new.sousuo.gov.cn/list.htm?sort=publishDate&advance=true&t=paper&n=15&subchildtype=gc271&location=%E4%BA%BA%E5%8F%A3%E4%B8%8E%E8%AE%A1%E5%88%92%E7%94%9F%E8%82%B2%E3%80%81%E5%A6%87%E5%A5%B3%E5%84%BF%E7%AB%A5%E5%B7%A5%E4%BD%9C%3E%E4%BA%BA%E5%8F%A3%E4%B8%8E%E8%AE%A1%E5%88%92%E7%94%9F%E8%82%B2]]></nodeUrl>
+</node>
+<node nodeID="270" parentID="176" open="false" articleNum="11">
+<nodeName><![CDATA[妇女儿童]]></nodeName>
+<nodeUrl><![CDATA[http://new.sousuo.gov.cn/list.htm?sort=publishDate&advance=true&t=paper&n=15&subchildtype=gc270&location=%E4%BA%BA%E5%8F%A3%E4%B8%8E%E8%AE%A1%E5%88%92%E7%94%9F%E8%82%B2%E3%80%81%E5%A6%87%E5%A5%B3%E5%84%BF%E7%AB%A5%E5%B7%A5%E4%BD%9C%3E%E5%A6%87%E5%A5%B3%E5%84%BF%E7%AB%A5]]></nodeUrl>
+</node>
+<node nodeID="269" parentID="176" open="false" articleNum="1">
+<nodeName><![CDATA[其他]]></nodeName>
+<nodeUrl><![CDATA[http://new.sousuo.gov.cn/list.htm?sort=publishDate&advance=true&t=paper&n=15&subchildtype=gc269&location=%E4%BA%BA%E5%8F%A3%E4%B8%8E%E8%AE%A1%E5%88%92%E7%94%9F%E8%82%B2%E3%80%81%E5%A6%87%E5%A5%B3%E5%84%BF%E7%AB%A5%E5%B7%A5%E4%BD%9C%3E%E5%85%B6%E4%BB%96]]></nodeUrl>
+</node>
+<node nodeID="268" parentID="177" open="false" articleNum="113">
+<nodeName><![CDATA[卫生]]></nodeName>
+<nodeUrl><![CDATA[http://new.sousuo.gov.cn/list.htm?sort=publishDate&advance=true&t=paper&n=15&subchildtype=gc268&location=%E5%8D%AB%E7%94%9F%E3%80%81%E4%BD%93%E8%82%B2%3E%E5%8D%AB%E7%94%9F]]></nodeUrl>
+</node>
+<node nodeID="267" parentID="177" open="false" articleNum="60">
+<nodeName><![CDATA[医药管理]]></nodeName>
+<nodeUrl><![CDATA[http://new.sousuo.gov.cn/list.htm?sort=publishDate&advance=true&t=paper&n=15&subchildtype=gc267&location=%E5%8D%AB%E7%94%9F%E3%80%81%E4%BD%93%E8%82%B2%3E%E5%8C%BB%E8%8D%AF%E7%AE%A1%E7%90%86]]></nodeUrl>
+</node>
+<node nodeID="266" parentID="177" open="false" articleNum="36">
+<nodeName><![CDATA[体育]]></nodeName>
+<nodeUrl><![CDATA[http://new.sousuo.gov.cn/list.htm?sort=publishDate&advance=true&t=paper&n=15&subchildtype=gc266&location=%E5%8D%AB%E7%94%9F%E3%80%81%E4%BD%93%E8%82%B2%3E%E4%BD%93%E8%82%B2]]></nodeUrl>
+</node>
+<node nodeID="265" parentID="177" open="false" articleNum="5">
+<nodeName><![CDATA[其他]]></nodeName>
+<nodeUrl><![CDATA[http://new.sousuo.gov.cn/list.htm?sort=publishDate&advance=true&t=paper&n=15&subchildtype=gc265&location=%E5%8D%AB%E7%94%9F%E3%80%81%E4%BD%93%E8%82%B2%3E%E5%85%B6%E4%BB%96]]></nodeUrl>
+</node>
+<node nodeID="264" parentID="178" open="false" articleNum="49">
+<nodeName><![CDATA[文化]]></nodeName>
+<nodeUrl><![CDATA[http://new.sousuo.gov.cn/list.htm?sort=publishDate&advance=true&t=paper&n=15&subchildtype=gc264&location=%E6%96%87%E5%8C%96%E3%80%81%E5%B9%BF%E7%94%B5%E3%80%81%E6%96%B0%E9%97%BB%E5%87%BA%E7%89%88%3E%E6%96%87%E5%8C%96]]></nodeUrl>
+</node>
+<node nodeID="263" parentID="178" open="false" articleNum="55">
+<nodeName><![CDATA[文物]]></nodeName>
+<nodeUrl><![CDATA[http://new.sousuo.gov.cn/list.htm?sort=publishDate&advance=true&t=paper&n=15&subchildtype=gc263&location=%E6%96%87%E5%8C%96%E3%80%81%E5%B9%BF%E7%94%B5%E3%80%81%E6%96%B0%E9%97%BB%E5%87%BA%E7%89%88%3E%E6%96%87%E7%89%A9]]></nodeUrl>
+</node>
+<node nodeID="262" parentID="178" open="false" articleNum="10">
+<nodeName><![CDATA[新闻出版]]></nodeName>
+<nodeUrl><![CDATA[http://new.sousuo.gov.cn/list.htm?sort=publishDate&advance=true&t=paper&n=15&subchildtype=gc262&location=%E6%96%87%E5%8C%96%E3%80%81%E5%B9%BF%E7%94%B5%E3%80%81%E6%96%B0%E9%97%BB%E5%87%BA%E7%89%88%3E%E6%96%B0%E9%97%BB%E5%87%BA%E7%89%88]]></nodeUrl>
+</node>
+<node nodeID="261" parentID="178" open="false" articleNum="14">
+<nodeName><![CDATA[广播、电影、电视]]></nodeName>
+<nodeUrl><![CDATA[http://new.sousuo.gov.cn/list.htm?sort=publishDate&advance=true&t=paper&n=15&subchildtype=gc261&location=%E6%96%87%E5%8C%96%E3%80%81%E5%B9%BF%E7%94%B5%E3%80%81%E6%96%B0%E9%97%BB%E5%87%BA%E7%89%88%3E%E5%B9%BF%E6%92%AD%E3%80%81%E7%94%B5%E5%BD%B1%E3%80%81%E7%94%B5%E8%A7%86]]></nodeUrl>
+</node>
+<node nodeID="260" parentID="178" open="false" articleNum="2">
+<nodeName><![CDATA[其他]]></nodeName>
+<nodeUrl><![CDATA[http://new.sousuo.gov.cn/list.htm?sort=publishDate&advance=true&t=paper&n=15&subchildtype=gc260&location=%E6%96%87%E5%8C%96%E3%80%81%E5%B9%BF%E7%94%B5%E3%80%81%E6%96%B0%E9%97%BB%E5%87%BA%E7%89%88%3E%E5%85%B6%E4%BB%96]]></nodeUrl>
+</node>
+<node nodeID="259" parentID="179" open="false" articleNum="144">
+<nodeName><![CDATA[科技]]></nodeName>
+<nodeUrl><![CDATA[http://new.sousuo.gov.cn/list.htm?sort=publishDate&advance=true&t=paper&n=15&subchildtype=gc259&location=%E7%A7%91%E6%8A%80%E3%80%81%E6%95%99%E8%82%B2%3E%E7%A7%91%E6%8A%80]]></nodeUrl>
+</node>
+<node nodeID="258" parentID="179" open="false" articleNum="145">
+<nodeName><![CDATA[教育]]></nodeName>
+<nodeUrl><![CDATA[http://new.sousuo.gov.cn/list.htm?sort=publishDate&advance=true&t=paper&n=15&subchildtype=gc258&location=%E7%A7%91%E6%8A%80%E3%80%81%E6%95%99%E8%82%B2%3E%E6%95%99%E8%82%B2]]></nodeUrl>
+</node>
+<node nodeID="257" parentID="179" open="false" articleNum="35">
+<nodeName><![CDATA[知识产权]]></nodeName>
+<nodeUrl><![CDATA[http://new.sousuo.gov.cn/list.htm?sort=publishDate&advance=true&t=paper&n=15&subchildtype=gc257&location=%E7%A7%91%E6%8A%80%E3%80%81%E6%95%99%E8%82%B2%3E%E7%9F%A5%E8%AF%86%E4%BA%A7%E6%9D%83]]></nodeUrl>
+</node>
+<node nodeID="256" parentID="179" open="false" articleNum="9">
+<nodeName><![CDATA[其他]]></nodeName>
+<nodeUrl><![CDATA[http://new.sousuo.gov.cn/list.htm?sort=publishDate&advance=true&t=paper&n=15&subchildtype=gc256&location=%E7%A7%91%E6%8A%80%E3%80%81%E6%95%99%E8%82%B2%3E%E5%85%B6%E4%BB%96]]></nodeUrl>
+</node>
+<node nodeID="255" parentID="180" open="false" articleNum="203">
+<nodeName><![CDATA[城市规划]]></nodeName>
+<nodeUrl><![CDATA[http://new.sousuo.gov.cn/list.htm?sort=publishDate&advance=true&t=paper&n=15&subchildtype=gc255&location=%E5%9F%8E%E4%B9%A1%E5%BB%BA%E8%AE%BE%E3%80%81%E7%8E%AF%E5%A2%83%E4%BF%9D%E6%8A%A4%3E%E5%9F%8E%E5%B8%82%E8%A7%84%E5%88%92]]></nodeUrl>
+</node>
+<node nodeID="254" parentID="180" open="false" articleNum="68">
+<nodeName><![CDATA[城乡建设（含住房）]]></nodeName>
+<nodeUrl><![CDATA[http://new.sousuo.gov.cn/list.htm?sort=publishDate&advance=true&t=paper&n=15&subchildtype=gc254&location=%E5%9F%8E%E4%B9%A1%E5%BB%BA%E8%AE%BE%E3%80%81%E7%8E%AF%E5%A2%83%E4%BF%9D%E6%8A%A4%3E%E5%9F%8E%E4%B9%A1%E5%BB%BA%E8%AE%BE%EF%BC%88%E5%90%AB%E4%BD%8F%E6%88%BF%EF%BC%89]]></nodeUrl>
+</node>
+<node nodeID="253" parentID="180" open="false" articleNum="133">
+<nodeName><![CDATA[环境监测、保护与治理]]></nodeName>
+<nodeUrl><![CDATA[http://new.sousuo.gov.cn/list.htm?sort=publishDate&advance=true&t=paper&n=15&subchildtype=gc253&location=%E5%9F%8E%E4%B9%A1%E5%BB%BA%E8%AE%BE%E3%80%81%E7%8E%AF%E5%A2%83%E4%BF%9D%E6%8A%A4%3E%E7%8E%AF%E5%A2%83%E7%9B%91%E6%B5%8B%E3%80%81%E4%BF%9D%E6%8A%A4%E4%B8%8E%E6%B2%BB%E7%90%86]]></nodeUrl>
+</node>
+<node nodeID="252" parentID="180" open="false" articleNum="33">
+<nodeName><![CDATA[节能与资源综合利用]]></nodeName>
+<nodeUrl><![CDATA[http://new.sousuo.gov.cn/list.htm?sort=publishDate&advance=true&t=paper&n=15&subchildtype=gc252&location=%E5%9F%8E%E4%B9%A1%E5%BB%BA%E8%AE%BE%E3%80%81%E7%8E%AF%E5%A2%83%E4%BF%9D%E6%8A%A4%3E%E8%8A%82%E8%83%BD%E4%B8%8E%E8%B5%84%E6%BA%90%E7%BB%BC%E5%90%88%E5%88%A9%E7%94%A8]]></nodeUrl>
+</node>
+<node nodeID="251" parentID="180" open="false" articleNum="52">
+<nodeName><![CDATA[气象、水文、测绘、地震]]></nodeName>
+<nodeUrl><![CDATA[http://new.sousuo.gov.cn/list.htm?sort=publishDate&advance=true&t=paper&n=15&subchildtype=gc251&location=%E5%9F%8E%E4%B9%A1%E5%BB%BA%E8%AE%BE%E3%80%81%E7%8E%AF%E5%A2%83%E4%BF%9D%E6%8A%A4%3E%E6%B0%94%E8%B1%A1%E3%80%81%E6%B0%B4%E6%96%87%E3%80%81%E6%B5%8B%E7%BB%98%E3%80%81%E5%9C%B0%E9%9C%87]]></nodeUrl>
+</node>
+<node nodeID="250" parentID="180" open="false" articleNum="17">
+<nodeName><![CDATA[其他]]></nodeName>
+<nodeUrl><![CDATA[http://new.sousuo.gov.cn/list.htm?sort=publishDate&advance=true&t=paper&n=15&subchildtype=gc250&location=%E5%9F%8E%E4%B9%A1%E5%BB%BA%E8%AE%BE%E3%80%81%E7%8E%AF%E5%A2%83%E4%BF%9D%E6%8A%A4%3E%E5%85%B6%E4%BB%96]]></nodeUrl>
+</node>
+<node nodeID="249" parentID="181" open="false" articleNum="66">
+<nodeName><![CDATA[工商]]></nodeName>
+<nodeUrl><![CDATA[http://new.sousuo.gov.cn/list.htm?sort=publishDate&advance=true&t=paper&n=15&subchildtype=gc249&location=%E5%B8%82%E5%9C%BA%E7%9B%91%E7%AE%A1%E3%80%81%E5%AE%89%E5%85%A8%E7%94%9F%E4%BA%A7%E7%9B%91%E7%AE%A1%3E%E5%B7%A5%E5%95%86]]></nodeUrl>
+</node>
+<node nodeID="248" parentID="181" open="false" articleNum="25">
+<nodeName><![CDATA[质量监督]]></nodeName>
+<nodeUrl><![CDATA[http://new.sousuo.gov.cn/list.htm?sort=publishDate&advance=true&t=paper&n=15&subchildtype=gc248&location=%E5%B8%82%E5%9C%BA%E7%9B%91%E7%AE%A1%E3%80%81%E5%AE%89%E5%85%A8%E7%94%9F%E4%BA%A7%E7%9B%91%E7%AE%A1%3E%E8%B4%A8%E9%87%8F%E7%9B%91%E7%9D%A3]]></nodeUrl>
+</node>
+<node nodeID="247" parentID="181" open="false" articleNum="8">
+<nodeName><![CDATA[标准]]></nodeName>
+<nodeUrl><![CDATA[http://new.sousuo.gov.cn/list.htm?sort=publishDate&advance=true&t=paper&n=15&subchildtype=gc247&location=%E5%B8%82%E5%9C%BA%E7%9B%91%E7%AE%A1%E3%80%81%E5%AE%89%E5%85%A8%E7%94%9F%E4%BA%A7%E7%9B%91%E7%AE%A1%3E%E6%A0%87%E5%87%86]]></nodeUrl>
+</node>
+<node nodeID="246" parentID="181" open="false" articleNum="34">
+<nodeName><![CDATA[食品药品监管]]></nodeName>
+<nodeUrl><![CDATA[http://new.sousuo.gov.cn/list.htm?sort=publishDate&advance=true&t=paper&n=15&subchildtype=gc246&location=%E5%B8%82%E5%9C%BA%E7%9B%91%E7%AE%A1%E3%80%81%E5%AE%89%E5%85%A8%E7%94%9F%E4%BA%A7%E7%9B%91%E7%AE%A1%3E%E9%A3%9F%E5%93%81%E8%8D%AF%E5%93%81%E7%9B%91%E7%AE%A1]]></nodeUrl>
+</node>
+<node nodeID="245" parentID="181" open="false" articleNum="59">
+<nodeName><![CDATA[安全生产监管]]></nodeName>
+<nodeUrl><![CDATA[http://new.sousuo.gov.cn/list.htm?sort=publishDate&advance=true&t=paper&n=15&subchildtype=gc245&location=%E5%B8%82%E5%9C%BA%E7%9B%91%E7%AE%A1%E3%80%81%E5%AE%89%E5%85%A8%E7%94%9F%E4%BA%A7%E7%9B%91%E7%AE%A1%3E%E5%AE%89%E5%85%A8%E7%94%9F%E4%BA%A7%E7%9B%91%E7%AE%A1]]></nodeUrl>
+</node>
+<node nodeID="243" parentID="181" open="false" articleNum="21">
+<nodeName><![CDATA[其他]]></nodeName>
+<nodeUrl><![CDATA[http://new.sousuo.gov.cn/list.htm?sort=publishDate&advance=true&t=paper&n=15&subchildtype=gc243&location=%E5%B8%82%E5%9C%BA%E7%9B%91%E7%AE%A1%E3%80%81%E5%AE%89%E5%85%A8%E7%94%9F%E4%BA%A7%E7%9B%91%E7%AE%A1%3E%E5%85%B6%E4%BB%96]]></nodeUrl>
+</node>
+<node nodeID="242" parentID="182" open="false" articleNum="235">
+<nodeName><![CDATA[对外经贸合作]]></nodeName>
+<nodeUrl><![CDATA[http://new.sousuo.gov.cn/list.htm?sort=publishDate&advance=true&t=paper&n=15&subchildtype=gc242&location=%E5%95%86%E8%B4%B8%E3%80%81%E6%B5%B7%E5%85%B3%E3%80%81%E6%97%85%E6%B8%B8%3E%E5%AF%B9%E5%A4%96%E7%BB%8F%E8%B4%B8%E5%90%88%E4%BD%9C]]></nodeUrl>
+</node>
+<node nodeID="241" parentID="182" open="false" articleNum="64">
+<nodeName><![CDATA[国内贸易（含供销）]]></nodeName>
+<nodeUrl><![CDATA[http://new.sousuo.gov.cn/list.htm?sort=publishDate&advance=true&t=paper&n=15&subchildtype=gc241&location=%E5%95%86%E8%B4%B8%E3%80%81%E6%B5%B7%E5%85%B3%E3%80%81%E6%97%85%E6%B8%B8%3E%E5%9B%BD%E5%86%85%E8%B4%B8%E6%98%93%EF%BC%88%E5%90%AB%E4%BE%9B%E9%94%80%EF%BC%89]]></nodeUrl>
+</node>
+<node nodeID="240" parentID="182" open="false" articleNum="230">
+<nodeName><![CDATA[海关]]></nodeName>
+<nodeUrl><![CDATA[http://new.sousuo.gov.cn/list.htm?sort=publishDate&advance=true&t=paper&n=15&subchildtype=gc240&location=%E5%95%86%E8%B4%B8%E3%80%81%E6%B5%B7%E5%85%B3%E3%80%81%E6%97%85%E6%B8%B8%3E%E6%B5%B7%E5%85%B3]]></nodeUrl>
+</node>
+<node nodeID="239" parentID="182" open="false" articleNum="14">
+<nodeName><![CDATA[检验、检疫]]></nodeName>
+<nodeUrl><![CDATA[http://new.sousuo.gov.cn/list.htm?sort=publishDate&advance=true&t=paper&n=15&subchildtype=gc239&location=%E5%95%86%E8%B4%B8%E3%80%81%E6%B5%B7%E5%85%B3%E3%80%81%E6%97%85%E6%B8%B8%3E%E6%A3%80%E9%AA%8C%E3%80%81%E6%A3%80%E7%96%AB]]></nodeUrl>
+</node>
+<node nodeID="238" parentID="182" open="false" articleNum="41">
+<nodeName><![CDATA[旅游]]></nodeName>
+<nodeUrl><![CDATA[http://new.sousuo.gov.cn/list.htm?sort=publishDate&advance=true&t=paper&n=15&subchildtype=gc238&location=%E5%95%86%E8%B4%B8%E3%80%81%E6%B5%B7%E5%85%B3%E3%80%81%E6%97%85%E6%B8%B8%3E%E6%97%85%E6%B8%B8]]></nodeUrl>
+</node>
+<node nodeID="237" parentID="182" open="false" articleNum="63">
+<nodeName><![CDATA[其他]]></nodeName>
+<nodeUrl><![CDATA[http://new.sousuo.gov.cn/list.htm?sort=publishDate&advance=true&t=paper&n=15&subchildtype=gc237&location=%E5%95%86%E8%B4%B8%E3%80%81%E6%B5%B7%E5%85%B3%E3%80%81%E6%97%85%E6%B8%B8%3E%E5%85%B6%E4%BB%96]]></nodeUrl>
+</node>
+<node nodeID="236" parentID="183" open="false" articleNum="44">
+<nodeName><![CDATA[机械制造与重工业]]></nodeName>
+<nodeUrl><![CDATA[http://new.sousuo.gov.cn/list.htm?sort=publishDate&advance=true&t=paper&n=15&subchildtype=gc236&location=%E5%B7%A5%E4%B8%9A%E3%80%81%E4%BA%A4%E9%80%9A%3E%E6%9C%BA%E6%A2%B0%E5%88%B6%E9%80%A0%E4%B8%8E%E9%87%8D%E5%B7%A5%E4%B8%9A]]></nodeUrl>
+</node>
+<node nodeID="235" parentID="183" open="false" articleNum="15">
+<nodeName><![CDATA[轻工纺织]]></nodeName>
+<nodeUrl><![CDATA[http://new.sousuo.gov.cn/list.htm?sort=publishDate&advance=true&t=paper&n=15&subchildtype=gc235&location=%E5%B7%A5%E4%B8%9A%E3%80%81%E4%BA%A4%E9%80%9A%3E%E8%BD%BB%E5%B7%A5%E7%BA%BA%E7%BB%87]]></nodeUrl>
+</node>
+<node nodeID="234" parentID="183" open="false" articleNum="15">
+<nodeName><![CDATA[化工]]></nodeName>
+<nodeUrl><![CDATA[http://new.sousuo.gov.cn/list.htm?sort=publishDate&advance=true&t=paper&n=15&subchildtype=gc234&location=%E5%B7%A5%E4%B8%9A%E3%80%81%E4%BA%A4%E9%80%9A%3E%E5%8C%96%E5%B7%A5]]></nodeUrl>
+</node>
+<node nodeID="233" parentID="183" open="false" articleNum="4">
+<nodeName><![CDATA[国防工业]]></nodeName>
+<nodeUrl><![CDATA[http://new.sousuo.gov.cn/list.htm?sort=publishDate&advance=true&t=paper&n=15&subchildtype=gc233&location=%E5%B7%A5%E4%B8%9A%E3%80%81%E4%BA%A4%E9%80%9A%3E%E5%9B%BD%E9%98%B2%E5%B7%A5%E4%B8%9A]]></nodeUrl>
+</node>
+<node nodeID="232" parentID="183" open="false" articleNum="15">
+<nodeName><![CDATA[航天、航空]]></nodeName>
+<nodeUrl><![CDATA[http://new.sousuo.gov.cn/list.htm?sort=publishDate&advance=true&t=paper&n=15&subchildtype=gc232&location=%E5%B7%A5%E4%B8%9A%E3%80%81%E4%BA%A4%E9%80%9A%3E%E8%88%AA%E5%A4%A9%E3%80%81%E8%88%AA%E7%A9%BA]]></nodeUrl>
+</node>
+<node nodeID="231" parentID="183" open="false" articleNum="33">
+<nodeName><![CDATA[信息产业（含电信）]]></nodeName>
+<nodeUrl><![CDATA[http://new.sousuo.gov.cn/list.htm?sort=publishDate&advance=true&t=paper&n=15&subchildtype=gc231&location=%E5%B7%A5%E4%B8%9A%E3%80%81%E4%BA%A4%E9%80%9A%3E%E4%BF%A1%E6%81%AF%E4%BA%A7%E4%B8%9A%EF%BC%88%E5%90%AB%E7%94%B5%E4%BF%A1%EF%BC%89]]></nodeUrl>
+</node>
+<node nodeID="230" parentID="183" open="false" articleNum="27">
+<nodeName><![CDATA[公路]]></nodeName>
+<nodeUrl><![CDATA[http://new.sousuo.gov.cn/list.htm?sort=publishDate&advance=true&t=paper&n=15&subchildtype=gc230&location=%E5%B7%A5%E4%B8%9A%E3%80%81%E4%BA%A4%E9%80%9A%3E%E5%85%AC%E8%B7%AF]]></nodeUrl>
+</node>
+<node nodeID="229" parentID="183" open="false" articleNum="27">
+<nodeName><![CDATA[水运]]></nodeName>
+<nodeUrl><![CDATA[http://new.sousuo.gov.cn/list.htm?sort=publishDate&advance=true&t=paper&n=15&subchildtype=gc229&location=%E5%B7%A5%E4%B8%9A%E3%80%81%E4%BA%A4%E9%80%9A%3E%E6%B0%B4%E8%BF%90]]></nodeUrl>
+</node>
+<node nodeID="228" parentID="183" open="false" articleNum="20">
+<nodeName><![CDATA[铁路]]></nodeName>
+<nodeUrl><![CDATA[http://new.sousuo.gov.cn/list.htm?sort=publishDate&advance=true&t=paper&n=15&subchildtype=gc228&location=%E5%B7%A5%E4%B8%9A%E3%80%81%E4%BA%A4%E9%80%9A%3E%E9%93%81%E8%B7%AF]]></nodeUrl>
+</node>
+<node nodeID="227" parentID="183" open="false" articleNum="136">
+<nodeName><![CDATA[民航]]></nodeName>
+<nodeUrl><![CDATA[http://new.sousuo.gov.cn/list.htm?sort=publishDate&advance=true&t=paper&n=15&subchildtype=gc227&location=%E5%B7%A5%E4%B8%9A%E3%80%81%E4%BA%A4%E9%80%9A%3E%E6%B0%91%E8%88%AA]]></nodeUrl>
+</node>
+<node nodeID="226" parentID="183" open="false" articleNum="8">
+<nodeName><![CDATA[邮政]]></nodeName>
+<nodeUrl><![CDATA[http://new.sousuo.gov.cn/list.htm?sort=publishDate&advance=true&t=paper&n=15&subchildtype=gc226&location=%E5%B7%A5%E4%B8%9A%E3%80%81%E4%BA%A4%E9%80%9A%3E%E9%82%AE%E6%94%BF]]></nodeUrl>
+</node>
+<node nodeID="225" parentID="183" open="false" articleNum="58">
+<nodeName><![CDATA[其他]]></nodeName>
+<nodeUrl><![CDATA[http://new.sousuo.gov.cn/list.htm?sort=publishDate&advance=true&t=paper&n=15&subchildtype=gc225&location=%E5%B7%A5%E4%B8%9A%E3%80%81%E4%BA%A4%E9%80%9A%3E%E5%85%B6%E4%BB%96]]></nodeUrl>
+</node>
+<node nodeID="224" parentID="184" open="false" articleNum="247">
+<nodeName><![CDATA[农业、畜牧业、渔业]]></nodeName>
+<nodeUrl><![CDATA[http://new.sousuo.gov.cn/list.htm?sort=publishDate&advance=true&t=paper&n=15&subchildtype=gc224&location=%E5%86%9C%E4%B8%9A%E3%80%81%E6%9E%97%E4%B8%9A%E3%80%81%E6%B0%B4%E5%88%A9%3E%E5%86%9C%E4%B8%9A%E3%80%81%E7%95%9C%E7%89%A7%E4%B8%9A%E3%80%81%E6%B8%94%E4%B8%9A]]></nodeUrl>
+</node>
+<node nodeID="223" parentID="184" open="false" articleNum="49">
+<nodeName><![CDATA[林业]]></nodeName>
+<nodeUrl><![CDATA[http://new.sousuo.gov.cn/list.htm?sort=publishDate&advance=true&t=paper&n=15&subchildtype=gc223&location=%E5%86%9C%E4%B8%9A%E3%80%81%E6%9E%97%E4%B8%9A%E3%80%81%E6%B0%B4%E5%88%A9%3E%E6%9E%97%E4%B8%9A]]></nodeUrl>
+</node>
+<node nodeID="222" parentID="184" open="false" articleNum="83">
+<nodeName><![CDATA[水利]]></nodeName>
+<nodeUrl><![CDATA[http://new.sousuo.gov.cn/list.htm?sort=publishDate&advance=true&t=paper&n=15&subchildtype=gc222&location=%E5%86%9C%E4%B8%9A%E3%80%81%E6%9E%97%E4%B8%9A%E3%80%81%E6%B0%B4%E5%88%A9%3E%E6%B0%B4%E5%88%A9]]></nodeUrl>
+</node>
+<node nodeID="221" parentID="184" open="false" articleNum="16">
+<nodeName><![CDATA[其他]]></nodeName>
+<nodeUrl><![CDATA[http://new.sousuo.gov.cn/list.htm?sort=publishDate&advance=true&t=paper&n=15&subchildtype=gc221&location=%E5%86%9C%E4%B8%9A%E3%80%81%E6%9E%97%E4%B8%9A%E3%80%81%E6%B0%B4%E5%88%A9%3E%E5%85%B6%E4%BB%96]]></nodeUrl>
+</node>
+<node nodeID="220" parentID="185" open="false" articleNum="169">
+<nodeName><![CDATA[土地]]></nodeName>
+<nodeUrl><![CDATA[http://new.sousuo.gov.cn/list.htm?sort=publishDate&advance=true&t=paper&n=15&subchildtype=gc220&location=%E5%9B%BD%E5%9C%9F%E8%B5%84%E6%BA%90%E3%80%81%E8%83%BD%E6%BA%90%3E%E5%9C%9F%E5%9C%B0]]></nodeUrl>
+</node>
+<node nodeID="219" parentID="185" open="false" articleNum="21">
+<nodeName><![CDATA[矿产]]></nodeName>
+<nodeUrl><![CDATA[http://new.sousuo.gov.cn/list.htm?sort=publishDate&advance=true&t=paper&n=15&subchildtype=gc219&location=%E5%9B%BD%E5%9C%9F%E8%B5%84%E6%BA%90%E3%80%81%E8%83%BD%E6%BA%90%3E%E7%9F%BF%E4%BA%A7]]></nodeUrl>
+</node>
+<node nodeID="218" parentID="185" open="false" articleNum="10">
+<nodeName><![CDATA[水资源]]></nodeName>
+<nodeUrl><![CDATA[http://new.sousuo.gov.cn/list.htm?sort=publishDate&advance=true&t=paper&n=15&subchildtype=gc218&location=%E5%9B%BD%E5%9C%9F%E8%B5%84%E6%BA%90%E3%80%81%E8%83%BD%E6%BA%90%3E%E6%B0%B4%E8%B5%84%E6%BA%90]]></nodeUrl>
+</node>
+<node nodeID="217" parentID="185" open="false" articleNum="34">
+<nodeName><![CDATA[海洋]]></nodeName>
+<nodeUrl><![CDATA[http://new.sousuo.gov.cn/list.htm?sort=publishDate&advance=true&t=paper&n=15&subchildtype=gc217&location=%E5%9B%BD%E5%9C%9F%E8%B5%84%E6%BA%90%E3%80%81%E8%83%BD%E6%BA%90%3E%E6%B5%B7%E6%B4%8B]]></nodeUrl>
+</node>
+<node nodeID="216" parentID="185" open="false" articleNum="30">
+<nodeName><![CDATA[煤炭]]></nodeName>
+<nodeUrl><![CDATA[http://new.sousuo.gov.cn/list.htm?sort=publishDate&advance=true&t=paper&n=15&subchildtype=gc216&location=%E5%9B%BD%E5%9C%9F%E8%B5%84%E6%BA%90%E3%80%81%E8%83%BD%E6%BA%90%3E%E7%85%A4%E7%82%AD]]></nodeUrl>
+</node>
+<node nodeID="215" parentID="185" open="false" articleNum="18">
+<nodeName><![CDATA[石油与天然气]]></nodeName>
+<nodeUrl><![CDATA[http://new.sousuo.gov.cn/list.htm?sort=publishDate&advance=true&t=paper&n=15&subchildtype=gc215&location=%E5%9B%BD%E5%9C%9F%E8%B5%84%E6%BA%90%E3%80%81%E8%83%BD%E6%BA%90%3E%E7%9F%B3%E6%B2%B9%E4%B8%8E%E5%A4%A9%E7%84%B6%E6%B0%94]]></nodeUrl>
+</node>
+<node nodeID="214" parentID="185" open="false" articleNum="39">
+<nodeName><![CDATA[电力]]></nodeName>
+<nodeUrl><![CDATA[http://new.sousuo.gov.cn/list.htm?sort=publishDate&advance=true&t=paper&n=15&subchildtype=gc214&location=%E5%9B%BD%E5%9C%9F%E8%B5%84%E6%BA%90%E3%80%81%E8%83%BD%E6%BA%90%3E%E7%94%B5%E5%8A%9B]]></nodeUrl>
+</node>
+<node nodeID="213" parentID="185" open="false" articleNum="32">
+<nodeName><![CDATA[其他]]></nodeName>
+<nodeUrl><![CDATA[http://new.sousuo.gov.cn/list.htm?sort=publishDate&advance=true&t=paper&n=15&subchildtype=gc213&location=%E5%9B%BD%E5%9C%9F%E8%B5%84%E6%BA%90%E3%80%81%E8%83%BD%E6%BA%90%3E%E5%85%B6%E4%BB%96]]></nodeUrl>
+</node>
+<node nodeID="212" parentID="186" open="false" articleNum="86">
+<nodeName><![CDATA[财政]]></nodeName>
+<nodeUrl><![CDATA[http://new.sousuo.gov.cn/list.htm?sort=publishDate&advance=true&t=paper&n=15&subchildtype=gc212&location=%E8%B4%A2%E6%94%BF%E3%80%81%E9%87%91%E8%9E%8D%E3%80%81%E5%AE%A1%E8%AE%A1%3E%E8%B4%A2%E6%94%BF]]></nodeUrl>
+</node>
+<node nodeID="211" parentID="186" open="false" articleNum="82">
+<nodeName><![CDATA[税务]]></nodeName>
+<nodeUrl><![CDATA[http://new.sousuo.gov.cn/list.htm?sort=publishDate&advance=true&t=paper&n=15&subchildtype=gc211&location=%E8%B4%A2%E6%94%BF%E3%80%81%E9%87%91%E8%9E%8D%E3%80%81%E5%AE%A1%E8%AE%A1%3E%E7%A8%8E%E5%8A%A1]]></nodeUrl>
+</node>
+<node nodeID="210" parentID="186" open="false" articleNum="50">
+<nodeName><![CDATA[银行]]></nodeName>
+<nodeUrl><![CDATA[http://new.sousuo.gov.cn/list.htm?sort=publishDate&advance=true&t=paper&n=15&subchildtype=gc210&location=%E8%B4%A2%E6%94%BF%E3%80%81%E9%87%91%E8%9E%8D%E3%80%81%E5%AE%A1%E8%AE%A1%3E%E9%93%B6%E8%A1%8C]]></nodeUrl>
+</node>
+<node nodeID="209" parentID="186" open="false" articleNum="21">
+<nodeName><![CDATA[货币（含外汇）]]></nodeName>
+<nodeUrl><![CDATA[http://new.sousuo.gov.cn/list.htm?sort=publishDate&advance=true&t=paper&n=15&subchildtype=gc209&location=%E8%B4%A2%E6%94%BF%E3%80%81%E9%87%91%E8%9E%8D%E3%80%81%E5%AE%A1%E8%AE%A1%3E%E8%B4%A7%E5%B8%81%EF%BC%88%E5%90%AB%E5%A4%96%E6%B1%87%EF%BC%89]]></nodeUrl>
+</node>
+<node nodeID="208" parentID="186" open="false" articleNum="39">
+<nodeName><![CDATA[证券]]></nodeName>
+<nodeUrl><![CDATA[http://new.sousuo.gov.cn/list.htm?sort=publishDate&advance=true&t=paper&n=15&subchildtype=gc208&location=%E8%B4%A2%E6%94%BF%E3%80%81%E9%87%91%E8%9E%8D%E3%80%81%E5%AE%A1%E8%AE%A1%3E%E8%AF%81%E5%88%B8]]></nodeUrl>
+</node>
+<node nodeID="207" parentID="186" open="false" articleNum="13">
+<nodeName><![CDATA[保险]]></nodeName>
+<nodeUrl><![CDATA[http://new.sousuo.gov.cn/list.htm?sort=publishDate&advance=true&t=paper&n=15&subchildtype=gc207&location=%E8%B4%A2%E6%94%BF%E3%80%81%E9%87%91%E8%9E%8D%E3%80%81%E5%AE%A1%E8%AE%A1%3E%E4%BF%9D%E9%99%A9]]></nodeUrl>
+</node>
+<node nodeID="206" parentID="186" open="false" articleNum="11">
+<nodeName><![CDATA[社会信用体系建设]]></nodeName>
+<nodeUrl><![CDATA[http://new.sousuo.gov.cn/list.htm?sort=publishDate&advance=true&t=paper&n=15&subchildtype=gc206&location=%E8%B4%A2%E6%94%BF%E3%80%81%E9%87%91%E8%9E%8D%E3%80%81%E5%AE%A1%E8%AE%A1%3E%E7%A4%BE%E4%BC%9A%E4%BF%A1%E7%94%A8%E4%BD%93%E7%B3%BB%E5%BB%BA%E8%AE%BE]]></nodeUrl>
+</node>
+<node nodeID="205" parentID="186" open="false" articleNum="16">
+<nodeName><![CDATA[审计]]></nodeName>
+<nodeUrl><![CDATA[http://new.sousuo.gov.cn/list.htm?sort=publishDate&advance=true&t=paper&n=15&subchildtype=gc205&location=%E8%B4%A2%E6%94%BF%E3%80%81%E9%87%91%E8%9E%8D%E3%80%81%E5%AE%A1%E8%AE%A1%3E%E5%AE%A1%E8%AE%A1]]></nodeUrl>
+</node>
+<node nodeID="204" parentID="186" open="false" articleNum="38">
+<nodeName><![CDATA[其他]]></nodeName>
+<nodeUrl><![CDATA[http://new.sousuo.gov.cn/list.htm?sort=publishDate&advance=true&t=paper&n=15&subchildtype=gc204&location=%E8%B4%A2%E6%94%BF%E3%80%81%E9%87%91%E8%9E%8D%E3%80%81%E5%AE%A1%E8%AE%A1%3E%E5%85%B6%E4%BB%96]]></nodeUrl>
+</node>
+<node nodeID="203" parentID="187" open="false" articleNum="100">
+<nodeName><![CDATA[宏观经济]]></nodeName>
+<nodeUrl><![CDATA[http://new.sousuo.gov.cn/list.htm?sort=publishDate&advance=true&t=paper&n=15&subchildtype=gc203&location=%E5%9B%BD%E6%B0%91%E7%BB%8F%E6%B5%8E%E7%AE%A1%E7%90%86%E3%80%81%E5%9B%BD%E6%9C%89%E8%B5%84%E4%BA%A7%E7%9B%91%E7%AE%A1%3E%E5%AE%8F%E8%A7%82%E7%BB%8F%E6%B5%8E]]></nodeUrl>
+</node>
+<node nodeID="202" parentID="187" open="false" articleNum="71">
+<nodeName><![CDATA[经济体制改革]]></nodeName>
+<nodeUrl><![CDATA[http://new.sousuo.gov.cn/list.htm?sort=publishDate&advance=true&t=paper&n=15&subchildtype=gc202&location=%E5%9B%BD%E6%B0%91%E7%BB%8F%E6%B5%8E%E7%AE%A1%E7%90%86%E3%80%81%E5%9B%BD%E6%9C%89%E8%B5%84%E4%BA%A7%E7%9B%91%E7%AE%A1%3E%E7%BB%8F%E6%B5%8E%E4%BD%93%E5%88%B6%E6%94%B9%E9%9D%A9]]></nodeUrl>
+</node>
+<node nodeID="201" parentID="187" open="false" articleNum="34">
+<nodeName><![CDATA[统计]]></nodeName>
+<nodeUrl><![CDATA[http://new.sousuo.gov.cn/list.htm?sort=publishDate&advance=true&t=paper&n=15&subchildtype=gc201&location=%E5%9B%BD%E6%B0%91%E7%BB%8F%E6%B5%8E%E7%AE%A1%E7%90%86%E3%80%81%E5%9B%BD%E6%9C%89%E8%B5%84%E4%BA%A7%E7%9B%91%E7%AE%A1%3E%E7%BB%9F%E8%AE%A1]]></nodeUrl>
+</node>
+<node nodeID="200" parentID="187" open="false" articleNum="32">
+<nodeName><![CDATA[物价]]></nodeName>
+<nodeUrl><![CDATA[http://new.sousuo.gov.cn/list.htm?sort=publishDate&advance=true&t=paper&n=15&subchildtype=gc200&location=%E5%9B%BD%E6%B0%91%E7%BB%8F%E6%B5%8E%E7%AE%A1%E7%90%86%E3%80%81%E5%9B%BD%E6%9C%89%E8%B5%84%E4%BA%A7%E7%9B%91%E7%AE%A1%3E%E7%89%A9%E4%BB%B7]]></nodeUrl>
+</node>
+<node nodeID="199" parentID="187" open="false" articleNum="37">
+<nodeName><![CDATA[国有资产监管]]></nodeName>
+<nodeUrl><![CDATA[http://new.sousuo.gov.cn/list.htm?sort=publishDate&advance=true&t=paper&n=15&subchildtype=gc199&location=%E5%9B%BD%E6%B0%91%E7%BB%8F%E6%B5%8E%E7%AE%A1%E7%90%86%E3%80%81%E5%9B%BD%E6%9C%89%E8%B5%84%E4%BA%A7%E7%9B%91%E7%AE%A1%3E%E5%9B%BD%E6%9C%89%E8%B5%84%E4%BA%A7%E7%9B%91%E7%AE%A1]]></nodeUrl>
+</node>
+<node nodeID="197" parentID="187" open="false" articleNum="5">
+<nodeName><![CDATA[重大建设项目]]></nodeName>
+<nodeUrl><![CDATA[http://new.sousuo.gov.cn/list.htm?sort=publishDate&advance=true&t=paper&n=15&subchildtype=gc197&location=%E5%9B%BD%E6%B0%91%E7%BB%8F%E6%B5%8E%E7%AE%A1%E7%90%86%E3%80%81%E5%9B%BD%E6%9C%89%E8%B5%84%E4%BA%A7%E7%9B%91%E7%AE%A1%3E%E9%87%8D%E5%A4%A7%E5%BB%BA%E8%AE%BE%E9%A1%B9%E7%9B%AE]]></nodeUrl>
+</node>
+<node nodeID="198" parentID="187" open="false" articleNum="51">
+<nodeName><![CDATA[其他]]></nodeName>
+<nodeUrl><![CDATA[http://new.sousuo.gov.cn/list.htm?sort=publishDate&advance=true&t=paper&n=15&subchildtype=gc198&location=%E5%9B%BD%E6%B0%91%E7%BB%8F%E6%B5%8E%E7%AE%A1%E7%90%86%E3%80%81%E5%9B%BD%E6%9C%89%E8%B5%84%E4%BA%A7%E7%9B%91%E7%AE%A1%3E%E5%85%B6%E4%BB%96]]></nodeUrl>
+</node>
+<node nodeID="44475" parentID="188" open="false" articleNum="60">
+<nodeName><![CDATA[政务公开]]></nodeName>
+<nodeUrl><![CDATA[http://new.sousuo.gov.cn/list.htm?sort=publishDate&advance=true&t=paper&n=15&subchildtype=44475&location=%E7%BB%BC%E5%90%88%E6%94%BF%E5%8A%A1%3E%E6%94%BF%E5%8A%A1%E5%85%AC%E5%BC%80]]></nodeUrl>
+</node>
+<node nodeID="196" parentID="188" open="false" articleNum="29">
+<nodeName><![CDATA[政务督查]]></nodeName>
+<nodeUrl><![CDATA[http://new.sousuo.gov.cn/list.htm?sort=publishDate&advance=true&t=paper&n=15&subchildtype=gc196&location=%E7%BB%BC%E5%90%88%E6%94%BF%E5%8A%A1%3E%E6%94%BF%E5%8A%A1%E7%9D%A3%E6%9F%A5]]></nodeUrl>
+</node>
+<node nodeID="195" parentID="188" open="false" articleNum="35">
+<nodeName><![CDATA[应急管理]]></nodeName>
+<nodeUrl><![CDATA[http://new.sousuo.gov.cn/list.htm?sort=publishDate&advance=true&t=paper&n=15&subchildtype=gc195&location=%E7%BB%BC%E5%90%88%E6%94%BF%E5%8A%A1%3E%E5%BA%94%E6%80%A5%E7%AE%A1%E7%90%86]]></nodeUrl>
+</node>
+<node nodeID="194" parentID="188" open="false" articleNum="15">
+<nodeName><![CDATA[电子政务]]></nodeName>
+<nodeUrl><![CDATA[http://new.sousuo.gov.cn/list.htm?sort=publishDate&advance=true&t=paper&n=15&subchildtype=gc194&location=%E7%BB%BC%E5%90%88%E6%94%BF%E5%8A%A1%3E%E7%94%B5%E5%AD%90%E6%94%BF%E5%8A%A1]]></nodeUrl>
+</node>
+<node nodeID="193" parentID="188" open="false" articleNum="35">
+<nodeName><![CDATA[文秘工作]]></nodeName>
+<nodeUrl><![CDATA[http://new.sousuo.gov.cn/list.htm?sort=publishDate&advance=true&t=paper&n=15&subchildtype=gc193&location=%E7%BB%BC%E5%90%88%E6%94%BF%E5%8A%A1%3E%E6%96%87%E7%A7%98%E5%B7%A5%E4%BD%9C]]></nodeUrl>
+</node>
+<node nodeID="192" parentID="188" open="false" articleNum="3">
+<nodeName><![CDATA[保密工作]]></nodeName>
+<nodeUrl><![CDATA[http://new.sousuo.gov.cn/list.htm?sort=publishDate&advance=true&t=paper&n=15&subchildtype=gc192&location=%E7%BB%BC%E5%90%88%E6%94%BF%E5%8A%A1%3E%E4%BF%9D%E5%AF%86%E5%B7%A5%E4%BD%9C]]></nodeUrl>
+</node>
+<node nodeID="191" parentID="188" open="false" articleNum="1">
+<nodeName><![CDATA[信访]]></nodeName>
+<nodeUrl><![CDATA[http://new.sousuo.gov.cn/list.htm?sort=publishDate&advance=true&t=paper&n=15&subchildtype=gc191&location=%E7%BB%BC%E5%90%88%E6%94%BF%E5%8A%A1%3E%E4%BF%A1%E8%AE%BF]]></nodeUrl>
+</node>
+<node nodeID="190" parentID="188" open="false" articleNum="2">
+<nodeName><![CDATA[参事、文史]]></nodeName>
+<nodeUrl><![CDATA[http://new.sousuo.gov.cn/list.htm?sort=publishDate&advance=true&t=paper&n=15&subchildtype=gc190&location=%E7%BB%BC%E5%90%88%E6%94%BF%E5%8A%A1%3E%E5%8F%82%E4%BA%8B%E3%80%81%E6%96%87%E5%8F%B2]]></nodeUrl>
+</node>
+<node nodeID="189" parentID="188" open="false" articleNum="195">
+<nodeName><![CDATA[其他]]></nodeName>
+<nodeUrl><![CDATA[http://new.sousuo.gov.cn/list.htm?sort=publishDate&advance=true&t=paper&n=15&subchildtype=gc189&location=%E7%BB%BC%E5%90%88%E6%94%BF%E5%8A%A1%3E%E5%85%B6%E4%BB%96]]></nodeUrl>
+</node>
+<node nodeID="304" parentID="300" open="false" articleNum="7">
+<nodeName><![CDATA[国务院]]></nodeName>
+<nodeUrl><![CDATA[http://new.sousuo.gov.cn/list.htm?sort=publishDate&advance=true&t=paper&n=15&subchildtype=gc304&location=%E5%9B%BD%E5%8A%A1%E9%99%A2%E7%BB%84%E7%BB%87%E6%9C%BA%E6%9E%84%3E%E5%9B%BD%E5%8A%A1%E9%99%A2]]></nodeUrl>
+</node>
+<node nodeID="305" parentID="300" open="false" articleNum="3">
+<nodeName><![CDATA[国务院办公厅]]></nodeName>
+<nodeUrl><![CDATA[http://new.sousuo.gov.cn/list.htm?sort=publishDate&advance=true&t=paper&n=15&subchildtype=gc305&location=%E5%9B%BD%E5%8A%A1%E9%99%A2%E7%BB%84%E7%BB%87%E6%9C%BA%E6%9E%84%3E%E5%9B%BD%E5%8A%A1%E9%99%A2%E5%8A%9E%E5%85%AC%E5%8E%85]]></nodeUrl>
+</node>
+<node nodeID="303" parentID="300" open="false" articleNum="67">
+<nodeName><![CDATA[国务院组成部门]]></nodeName>
+<nodeUrl><![CDATA[http://new.sousuo.gov.cn/list.htm?sort=publishDate&advance=true&t=paper&n=15&subchildtype=gc303&location=%E5%9B%BD%E5%8A%A1%E9%99%A2%E7%BB%84%E7%BB%87%E6%9C%BA%E6%9E%84%3E%E5%9B%BD%E5%8A%A1%E9%99%A2%E7%BB%84%E6%88%90%E9%83%A8%E9%97%A8]]></nodeUrl>
+</node>
+<node nodeID="307" parentID="300" open="false" articleNum="1">
+<nodeName><![CDATA[国务院直属特设机构 ]]></nodeName>
+<nodeUrl><![CDATA[http://new.sousuo.gov.cn/list.htm?sort=publishDate&advance=true&t=paper&n=15&subchildtype=gc307&location=%E5%9B%BD%E5%8A%A1%E9%99%A2%E7%BB%84%E7%BB%87%E6%9C%BA%E6%9E%84%3E%E5%9B%BD%E5%8A%A1%E9%99%A2%E7%9B%B4%E5%B1%9E%E7%89%B9%E8%AE%BE%E6%9C%BA%E6%9E%84%20]]></nodeUrl>
+</node>
+<node nodeID="301" parentID="300" open="false" articleNum="43">
+<nodeName><![CDATA[国务院直属机构]]></nodeName>
+<nodeUrl><![CDATA[http://new.sousuo.gov.cn/list.htm?sort=publishDate&advance=true&t=paper&n=15&subchildtype=gc301&location=%E5%9B%BD%E5%8A%A1%E9%99%A2%E7%BB%84%E7%BB%87%E6%9C%BA%E6%9E%84%3E%E5%9B%BD%E5%8A%A1%E9%99%A2%E7%9B%B4%E5%B1%9E%E6%9C%BA%E6%9E%84]]></nodeUrl>
+</node>
+<node nodeID="320" parentID="300" open="false" articleNum="7">
+<nodeName><![CDATA[国务院办事机构]]></nodeName>
+<nodeUrl><![CDATA[http://new.sousuo.gov.cn/list.htm?sort=publishDate&advance=true&t=paper&n=15&subchildtype=gc320&location=%E5%9B%BD%E5%8A%A1%E9%99%A2%E7%BB%84%E7%BB%87%E6%9C%BA%E6%9E%84%3E%E5%9B%BD%E5%8A%A1%E9%99%A2%E5%8A%9E%E4%BA%8B%E6%9C%BA%E6%9E%84]]></nodeUrl>
+</node>
+<node nodeID="308" parentID="300" open="false" articleNum="16">
+<nodeName><![CDATA[国务院直属事业单位]]></nodeName>
+<nodeUrl><![CDATA[http://new.sousuo.gov.cn/list.htm?sort=publishDate&advance=true&t=paper&n=15&subchildtype=gc308&location=%E5%9B%BD%E5%8A%A1%E9%99%A2%E7%BB%84%E7%BB%87%E6%9C%BA%E6%9E%84%3E%E5%9B%BD%E5%8A%A1%E9%99%A2%E7%9B%B4%E5%B1%9E%E4%BA%8B%E4%B8%9A%E5%8D%95%E4%BD%8D]]></nodeUrl>
+</node>
+<node nodeID="302" parentID="300" open="false" articleNum="36">
+<nodeName><![CDATA[国务院部委管理的国家局]]></nodeName>
+<nodeUrl><![CDATA[http://new.sousuo.gov.cn/list.htm?sort=publishDate&advance=true&t=paper&n=15&subchildtype=gc302&location=%E5%9B%BD%E5%8A%A1%E9%99%A2%E7%BB%84%E7%BB%87%E6%9C%BA%E6%9E%84%3E%E5%9B%BD%E5%8A%A1%E9%99%A2%E9%83%A8%E5%A7%94%E7%AE%A1%E7%90%86%E7%9A%84%E5%9B%BD%E5%AE%B6%E5%B1%80]]></nodeUrl>
+</node>
+<node nodeID="321" parentID="300" open="false" articleNum="7">
+<nodeName><![CDATA[国务院议事协调机构]]></nodeName>
+<nodeUrl><![CDATA[http://new.sousuo.gov.cn/list.htm?sort=publishDate&advance=true&t=paper&n=15&subchildtype=gc321&location=%E5%9B%BD%E5%8A%A1%E9%99%A2%E7%BB%84%E7%BB%87%E6%9C%BA%E6%9E%84%3E%E5%9B%BD%E5%8A%A1%E9%99%A2%E8%AE%AE%E4%BA%8B%E5%8D%8F%E8%B0%83%E6%9C%BA%E6%9E%84]]></nodeUrl>
+</node>
+<node nodeID="306" parentID="300" open="false" articleNum="147">
+<nodeName><![CDATA[其他]]></nodeName>
+<nodeUrl><![CDATA[http://new.sousuo.gov.cn/list.htm?sort=publishDate&advance=true&t=paper&n=15&subchildtype=gc306&location=%E5%9B%BD%E5%8A%A1%E9%99%A2%E7%BB%84%E7%BB%87%E6%9C%BA%E6%9E%84%3E%E5%85%B6%E4%BB%96]]></nodeUrl>
+</node>
+</nodes>
